@@ -1,6 +1,7 @@
 # Ensemblism
 
-1. [Rules](/RULES.md)
-2. [Roles](/ROLES.md)
+1. [Symptoms](/SYMPTOMS.md)
+2. [Rules](/RULES.md)
+3. [Roles](/ROLES.md)
 
 
