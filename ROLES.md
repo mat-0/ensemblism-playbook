@@ -1,11 +1,11 @@
-## Role 1: Navigator:
+### Role 1: Navigator:
 
 - Ask for ideas
 - Filter the groups ideas and tell the driver exactly what to type
 - Tell the driver only your high-level intent and have them implement the details
 - Create a failing test, make it pass, refactor.
 
-## Role 2: Driver:
+### Role 2: Driver:
 
 - Ask a clarifying question about what to type
 - Type something you disagree with
