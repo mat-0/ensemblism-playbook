@@ -2,7 +2,9 @@
 
 
 ## 1. Take breaks
-tools like Pomodoro help remind teams to take breaks, but sometimes team members are accustomed to having to always be at their desks so they feel guilty stepping away from an ensemble, encourage regular breaks and encourage people to step away when needed.
+Tools like Pomodoro help remind teams to take breaks, but sometimes team members are accustomed to having to always be at their desks so they feel guilty stepping away from an ensemble, encourage regular breaks and encourage people to step away when needed.
+
+By working on a TDD approach a rotation after every PR and merge is a great opportunity to take a break
 
 Having a moment away from your desk can also often provide you with a clear head to think of a solution to a problem. Take breaks. It works.
 
