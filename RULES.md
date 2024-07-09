@@ -7,7 +7,7 @@ tools like Pomodoro help remind teams to take breaks, but sometimes team members
 Having a moment away from your desk can also often provide you with a clear head to think of a solution to a problem. Take breaks. It works.
 
 ## 2. Watch out for the Hare.
-In na ensemble, there is one “driver” at the keyboard, and the driver’s job is to do what the navigator(s) say. In a strict driver/navigator ensemble, there is one navigator and everyone else is an advisor.
+In an ensemble, there is one “driver” at the keyboard, and the driver’s job is to do what the navigator(s) say. In a strict driver/navigator ensemble, there is one navigator and everyone else is an advisor.
 
 Either way, the driver is not in charge. The driver’s job is to operate the machine only. The rest of the group decides what to type, what to move, what to delete. The driver executes the will of the team so that every idea goes from one person’s brain through another person’s hands.
 
